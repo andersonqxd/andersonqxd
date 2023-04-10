@@ -12,7 +12,7 @@
 
 ## 🧑🏽‍💻 About Me
 
-- Hello, my name is Anderson França, I'm 26 years old;
+- Hello, my name is Anderson França, I'm 27 years old;
 - Graduating in Computer Networks at the Federal University of Ceará, Quixadá campus;
 - Staying strong regardless of the challenge.
 
